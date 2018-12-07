@@ -21,3 +21,6 @@ webbrowser.open('https://www.google.com/search?q=' + word + ' flight') - finds f
 You need to copy tripTo.py and tripTo.bat files to your PC.
 Add this location to your System Variables-> Path
 
+![environment variables](https://user-images.githubusercontent.com/42386993/49666586-343d3b80-fa61-11e8-92e3-a0a4a38a351a.JPG)
+
+You need to modify tripTo.bat file by adding to it location you stored tripTo.py and tripTo.bat
