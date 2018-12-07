@@ -1,5 +1,3 @@
-# Things_you_need-in_trip
+# tripTo
 
-paieskos variklis
-rinkti info apie pasirinkta sali
-vizos, skiepai, politine situacija
+simple script added to Windows root for easy access by one button.
