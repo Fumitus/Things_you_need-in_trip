@@ -11,10 +11,10 @@ In this case it is enough to type tripTo and hit enter
 Default browser will open new windows with usefull info. In my case it opens:
 
 ```
-webbrowser.open('https://www.google.com/maps/place/' + word) - shows place on map
-webbrowser.open('https://www.google.com/search?q=' + word + ' things to do') - finds things to do
-webbrowser.open('https://www.google.com/search?q=' + word + ' hotel') - finds hotels
-webbrowser.open('https://www.google.com/search?q=' + word + ' flight') - finds flights
+webbrowser.open('https://www.google.com/maps/place/' + word) # shows place on map
+webbrowser.open('https://www.google.com/search?q=' + word + ' things to do') # finds things to do
+webbrowser.open('https://www.google.com/search?q=' + word + ' hotel') # finds hotels
+webbrowser.open('https://www.google.com/search?q=' + word + ' flight') # finds flights
 ```
 
 ## How to install
