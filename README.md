@@ -28,6 +28,10 @@ You need to modify tripTo.bat file by adding to it location you stored tripTo.py
 ```py
 @py.exe C:\\...\\MyPythonScripts\\tripTo.py %*
 ```
+## Usage
+
+Make sure you are using Python3
+
 ## How to modify code
 
 Just open tripTo.py and modify/add lines
